@@ -8,9 +8,9 @@ Quinn Bolewicki
 
 Benchmark:
 
-2.	Become fluent enough in python to create interactive data visualizations or simple apps
-## Goal Two
 
+## Goal Two
+2.  Become fluent enough in python to create interactive data visualizations or simple apps
 -----
 
 Benchmark:
