@@ -9,5 +9,4 @@ Hour 2: Trying and failing and trying again to get my program to print in termin
 Hour 3: Attempting to upload last week's lab hours to github from terminal
 Hour 4: ''
 Hour 5: Attempting up update goals
-Hour 6: 
-Hour 7: 
+Hour 6: Attempting to upload this week's lab hours
